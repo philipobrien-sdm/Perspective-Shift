@@ -1,0 +1,5 @@
+{
+  "name": "Perspective Shift",
+  "description": "An application that uses the Gemini API to analyze text from different demographic perspectives, highlighting potential interpretations, sensitivities, and providing guidance for respectful dialogue.",
+  "requestFramePermissions": []
+}
